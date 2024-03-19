@@ -1,7 +1,11 @@
- 👋 Hi, I’m @GauravSakure02 "\n"
+ 👋 Hi, I’m @GauravSakure02 
+ 
  👀 I’m interested in Python Programming, Java 
+ 
 🌱 I’m currently learning Machine Learning & Springboot
+
 💞️ I’m looking to collaborate on Various Projects on related files 
+
 📫 How to reach me Linkedin Profile - https://www.linkedin.com/in/gauravsakure2002/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
