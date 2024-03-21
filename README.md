@@ -2,7 +2,7 @@
  
  👀 I’m interested in **Python Programming, Java Development**
  
-🌱 I’m currently learning Machine Learning & Springboot
+🌱 I’m currently learning **Machine Learning & Springboot Freamework**
 
 💞️ I’m looking to collaborate on Various Projects on related files 
 
