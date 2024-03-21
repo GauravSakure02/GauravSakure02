@@ -6,7 +6,7 @@
 
 💞️ I’m looking to collaborate on Various **Projects** on related files 
 
-📫 How to reach me Linkedin Profile - https://www.linkedin.com/in/gauravsakure2002/
-
+📫 How to reach me **Linkedin Profile - https://www.linkedin.com/in/gauravsakure2002/
+**
 
 
