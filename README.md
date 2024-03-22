@@ -1,6 +1,6 @@
 👋 Hi, **I’m @GauravSakure02** 
  
- 👀 I’m interested in **Python Programming, Java Development**
+👀 I’m interested in **Python Programming, Java Development**
  
 🌱 I’m currently learning **Machine Learning & Springboot Freamework**
 
