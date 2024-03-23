@@ -6,7 +6,7 @@
 
 💼 Looking to collaborate on projects related to Python, Java, Machine Learning, or Spring Boot
 
-📫 Reach me on LinkedIn: Gaurav Sakure<a href=https://www.linkedin.com/in/gauravsakure2002/>
+📫 Reach me on LinkedIn: Gaurav Sakure(https://www.linkedin.com/in/gauravsakure2002/)
 
 
 
