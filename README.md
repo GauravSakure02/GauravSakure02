@@ -1,11 +1,13 @@
-👋 Hi, **I’m @GauravSakure02** 
- 
-👀 I’m interested in **Python Programming, Java Development**
- 
-🌱 I’m currently learning **Machine Learning & Springboot Freamework**
+👋 Hi, I’m **@GauravSakure02**
 
-💞️ I’m looking to collaborate on Various **Projects** on related files 
+👀 I’m interested in Python Programming and Java Development
 
-📫 How to reach me Linkedin Profile - https://www.linkedin.com/in/gauravsakure2002/
+🌱 Currently learning Machine Learning and Spring Boot Framework
+
+💼 Looking to collaborate on projects related to Python, Java, Machine Learning, or Spring Boot
+
+📫 Reach me on LinkedIn: Gaurav Sakure<a href=https://www.linkedin.com/in/gauravsakure2002/>
+
+
 
 
