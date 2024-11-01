@@ -2,7 +2,6 @@
 
 
 
-
 👋 Hi, I’m **@GauravSakure02**
 
 👀 I’m interested in **Python Programming and Java Development**
