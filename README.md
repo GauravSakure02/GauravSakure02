@@ -2,7 +2,7 @@
 
 👀 I’m interested in **Python Programming and Java Development**
 
-🌱 Currently learning **Machine Learning  Spring Boot Framework**
+🌱 Currently learning ** Spring Boot Framework**
 
 💼 Looking to collaborate on projects related to **Java, Machine Learning, or Spring Boot**
 
